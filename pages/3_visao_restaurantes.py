@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 import folium
 from streamlit_folium import folium_static
 from datetime import datetime
-import altair as alt
+
 
 
 st.set_page_config (page_title='Visão restaurantes', page_icon='', layout='wide') 
