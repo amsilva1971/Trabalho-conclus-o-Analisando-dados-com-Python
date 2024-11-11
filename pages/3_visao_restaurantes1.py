@@ -8,7 +8,7 @@ from PIL import Image
 #import plotly.express as px
 #import plotly.graph_objects as go
 import folium
-from streamlit_folium import folium_static
+#from streamlit_folium import folium_static
 from datetime import datetime
 
 
