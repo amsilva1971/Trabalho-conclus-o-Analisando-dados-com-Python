@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 from PIL import Image
 #from haversine import haversine
-import plotly.express as px
+#import plotly.express as px
 import folium
 from streamlit_folium import folium_static
 from datetime import datetime
