@@ -8,7 +8,7 @@ import plotly.express as px
 import folium
 from streamlit_folium import folium_static
 from datetime import datetime
-from altair.vegalite.v4.api import Chart
+
 
 
 st.set_page_config (page_title='Visão entregadores', page_icon='', layout='wide') 
