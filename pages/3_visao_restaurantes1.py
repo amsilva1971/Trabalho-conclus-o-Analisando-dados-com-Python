@@ -7,7 +7,7 @@ from PIL import Image
 #from haversine import haversine
 #import plotly.express as px
 #import plotly.graph_objects as go
-import folium
+#import folium
 #from streamlit_folium import folium_static
 from datetime import datetime
 
